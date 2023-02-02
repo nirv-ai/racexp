@@ -4,7 +4,7 @@
 
 ## RACExP
 
-- Holistic product, research and development race teams
+- Holistic approach for product, research and development race teams
 - **RACEXP**: **R**ealistic **A**gile **C**oncepts for **EX**tream **P**rogramming
   - ![@noahedwardhall RACE:XP](./images/racexp.png)
   - [read more](./0racexp.md)
