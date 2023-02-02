@@ -1,10 +1,10 @@
 # BizDevOps @ NIRV
 
-- [DevBizOps](https://enterprisersproject.com/article/2019/9/devops-what-is-bizdevops)
+- [BizDevOps](https://enterprisersproject.com/article/2019/9/devops-what-is-bizdevops)
 
 ## RACExP
 
-- Shifting Prod & Proj management into development
+- Holistic product, research and development race teams
 - **RACEXP**: **R**ealistic **A**gile **C**oncepts for **EX**tream **P**rogramming
   - ![@noahedwardhall RACE:XP](./images/racexp.png)
   - [read more](./0racexp.md)
@@ -17,6 +17,6 @@
 
 ## CTA
 
-- Use case call to actions
+- Creative call to actions
 - **CTA**: **C**ontext **T**echnology **A**sides
   - [read more](./0cta.md)
