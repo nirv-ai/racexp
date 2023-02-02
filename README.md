@@ -11,7 +11,7 @@
 
 ## HECC-YA
 
-- Holistic approach to immutable architecture
+- Holistic approach for zero-trust immutable systems, services and applications
 - **HECC-YA**: **h**ardware **e**nvironment **c**omponent **c**ommunication **y**ielding **a**rchitecture
   - [read more](./0heccya.md#hecc-ya-system-modeling)
 
@@ -19,4 +19,4 @@
 
 - Use case call to actions
 - **CTA**: **C**ontext **T**echnology **A**sides
-- [read more](./0cta.md)
+  - [read more](./0cta.md)
