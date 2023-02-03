@@ -41,7 +41,7 @@ nimlangs styleguide: replace `code` with whatever it is you do
 
 ## F.U.N buckets
 
-- each CTA should creative, profitable, and FUN!
+- each CTA should be creative, profitable, and FUN!
 
 ### Fix
 
@@ -59,15 +59,6 @@ nimlangs styleguide: replace `code` with whatever it is you do
 - greenfield > rapid prototyping: require pit boss approval
 - everyone loves something new
 - but can we afford it? can we win if we enter the race?
-
-## List of bad words
-
-- Done: nothing is ever done, we're just moving the goalpost on what we're trying to achieve
-  - instead: use Deployed, as we expect to bluefield everything in the future
-- refactor: everything is an improvement, even new products are refactors of someone elses idea
-  - instead: focus on the improvement/restriction that gets us closer to the finish line
-- [Sprint](https://blogs.infosupport.com/3-reasons-for-using-sprints-and-why-they-may-be-bad/): i'll trade your predictability for adaptability anyday
-  - instead: embrace the complexity, risk and potential for failure. Focus on change-management and short-feedback loops with immediate corrective actions
 
 ## FoF: frfr
 
