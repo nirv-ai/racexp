@@ -1,12 +1,13 @@
-# BizDevOps @ NIRV
+# [BizDevOps](https://enterprisersproject.com/article/2019/9/devops-what-is-bizdevops) @ NIRV
 
-- [BizDevOps](https://enterprisersproject.com/article/2019/9/devops-what-is-bizdevops)
+> understanding all of our planning... triangulate the ideal path towards a future state of being. @NIRV
 
-## RACExP
+## RACExp
 
-- Holistic approach for product, research and development race teams
+> ![NIRVai RACE:XP](./images/racexp.png)
+
+- Holistic approach for product and research development RACExp teams
 - **RACEXP**: **R**ealistic **A**gile **C**oncepts for **EX**tream **P**rogramming
-  - ![@noahedwardhall RACE:XP](./images/racexp.png)
   - [read more](./0racexp.md)
 
 ## HECC-YA
@@ -16,6 +17,8 @@
   - [read more](./0heccya.md#hecc-ya-system-modeling)
 
 ## CTA
+
+> ![NIRVai F.U.N buckets](./images/racexp-cta.png)
 
 - Creative call to actions
 - **CTA**: **C**ontext **T**echnology **A**sides

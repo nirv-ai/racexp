@@ -2,7 +2,7 @@
 
 - **R**ealistic **A**gile **C**oncepts for **EX**treme **P**rogramming
 
-![@noahedwardhall RACE:XP](./images/racexp.png)
+> ![@noahedwardhall RACE:XP](./images/racexp.png)
 
 ## TLDR
 
@@ -102,30 +102,32 @@
 
 ## RACE:XP Ceremonies
 
-- TODO
 - RACE:XP [Simulations](https://www.youtube.com/watch?v=suXyQKnhs8Q)
-  - the ideal tool would be recurisve and rollup
-    - each individual developer should have a board to track their race
-    - each team should have a board (that rolls up individual races)
-    - each prod org should have a kanban board (that rolls up team races)
-    - each business unit... etc
-  - Exactly what it sounds likes, the concrete understanding that all of our planning is merely an attempt to triangulate the ideal path towards a future state of being
-  - a differnet kind of kanban, if you could call it kanban at all
-    - maybe i'll be build it...
-    - Formula 1 simulators are tools used to develop drivers, improving technique, and improving the car
-    - RACE:XP simulators are tools used to develop engineers, improving engineering team capabilities, and improve our ability to produce products that meet requirements
-- [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development#Lean_software_practices)
+  - Formula 1 simulators are tools used to develop drivers, improving technique, and improving the car
 
-## RACE Development
+## RACE Teams
 
-- TODO
+### Research Team
+
+- the most creative
+- Visionaries, fearless, just dgaf
+
+### Product Team
+
+- the most performant
+- can build anything... fast
+
+### Fire Team
+
+- the most knowledgeable
+- the team part of every other team, can do anyones job, even yours
 
 ## Popular isnt always Cool
 
 - Done: nothing is ever done, we're just moving the goalpost on what we're trying to achieve
   - instead: use Deployed, as we expect to bluefield everything in the future
-- refactor: everything is an improvement, even new products are refactors of someone elses idea
-  - instead: focus on the improvement/restriction that gets us closer to the finish line, and work towards what moves the needle most
+- refactor: everything is an enhancement, even new products are refactors of someone elses idea
+  - instead: use [Improvement](https://learningenglish.voanews.com/a/improve-increase-or-enhance-/4900905.html) and focus on the increased quality that gets us closer to the finish line, and work towards that which moves the needle most
 - [Sprint](https://blogs.infosupport.com/3-reasons-for-using-sprints-and-why-they-may-be-bad/): i'll trade your predictability for adaptability any_day_of_your_sprint
   - instead:
     - embrace the complexity, risk and potential for failure.
