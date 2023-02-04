@@ -4,7 +4,7 @@
 
 ## RACExp
 
-> ![NIRVai RACE:XP](./images/racexp.png)
+> ![RACE:XP racetrack](./images/racexp-racetrack.png)
 
 - Holistic approach for product and research development RACExp teams
 - **RACEXP**: **R**ealistic **A**gile **C**oncepts for **EX**tream **P**rogramming
@@ -18,7 +18,7 @@
 
 ## CTA
 
-> ![NIRVai F.U.N buckets](./images/racexp-cta.png)
+> ![NIRVai F.U.N plan](./images/racexp-fun%20plan.png)
 
 - Creative call to actions
 - **CTA**: **C**ontext **T**echnology **A**sides

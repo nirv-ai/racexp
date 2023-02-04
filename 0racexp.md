@@ -2,7 +2,7 @@
 
 - **R**ealistic **A**gile **C**oncepts for **EX**treme **P**rogramming
 
-> ![@noahedwardhall RACE:XP](./images/racexp.png)
+> ![RACE:XP racetrack](./images/racexp-racetrack.png)
 
 ## TLDR
 
@@ -140,7 +140,6 @@
 
 ## etc
 
-Inspiration behind RACE:XP
+- Inspiration behind RACE:XP
 
-- the legend: Claude Rouelle
-- [![inspiration for RACE:XP](https://img.youtube.com/vi/c1n-rgqSTyY/0.jpg)](https://www.youtube.com/watch?v=c1n-rgqSTyY)
+> [![inspiration for RACE:XP](https://img.youtube.com/vi/c1n-rgqSTyY/0.jpg)](https://www.youtube.com/watch?v=c1n-rgqSTyY)
