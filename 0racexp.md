@@ -107,6 +107,8 @@
 
 ## RACE Teams
 
+> ![NIRVai bizdevops structure](./images/racexp-bizdevops-team.png)
+
 ### Research Team
 
 - the most creative
@@ -121,6 +123,8 @@
 
 - the most knowledgeable
 - the team part of every other team, can do anyones job, even yours
+
+> ![nirvai raceteams](./images/racexp-raceteams.png)
 
 ## Popular isnt always Cool
 
