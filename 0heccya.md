@@ -18,7 +18,7 @@
 - When is the time?
   - perf, slas, concurrency, parallelism
 - Where is the data?
-  - in flight, at rest, disk, ram
+  - in transit, at rest, disk, ram
 - Why do we exist
   - entry, exits, triggers
 
