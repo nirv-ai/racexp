@@ -1,4 +1,4 @@
-# HECC-YA Model for Systems, Services and Applications
+# HECCYA Model for Systems, Services and Applications
 
 - focusing on zero-trust immutable infrastructure and applications
 - **H**ardware (metal/cloud)

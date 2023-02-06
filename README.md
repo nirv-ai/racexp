@@ -2,47 +2,79 @@
 
 > understanding all of our planning... triangulate the ideal path towards a future state of being. @NIRV
 
+> ![RACExp](./images/racexp-racexp.png)
+
 ## RACExp
 
-> ![RACE:XP racetrack](./images/racexp-racetrack.png)
-
-- Holistic approach for product and research development RACExp teams
+- Holistic high performance bizdevops teams
 - **RACEXP**: **R**ealistic **A**gile **C**oncepts for **EX**tream **P**rogramming
   - [read more](./0racexp.md)
 
-## HECC-YA
+> ![RACExp](./images/racexp-racetrack.png)
 
-- Holistic approach for zero-trust immutable systems, services and applications
-- **HECC-YA**: **h**ardware **e**nvironment **c**omponent **c**ommunication **y**ielding **a**rchitecture
+## HECCYA
+
+- Holistic zero-trust immutable systems, services and applications
+- **HECCYA**: **h**ardware **e**nvironment **c**omponent **c**ommunication **y**ielding **a**rchitecture
   - [read more](./0heccya.md#hecc-ya-system-modeling)
 
 ## F.U.N. Plan
 
-> ![NIRVai F.U.N plan](./images/racexp-funplan-funstack-raceteam.png)
-
-- Planning F.U.N. stacks of CTAs
+- Planning stacks of F.U.N.
   - [read more](./0funplan.md)
 
-## Terminology
+> ![NIRVai F.U.N plan](./images/racexp-funplan-funstack-raceteam.png)
 
-- driver
-- racetrack
-- funstack
-- raceteam
+## Taxonomy
+
+- 5Dubs (heccya)
+- AD (ADR) architectural decision
+- ADR (racexp)
+- AKM (ADR) architectural knowledge management
+- architecture (heccya)
+- ASR (ADR) architecturally significant record
 - biz (raceteam)
 - bizdev (raceteam)
+- bizdevops (raceteam)
+- bluefield (funstack)
+- brainstorm (funplan) planning
+- brownfield (funstack)
+- celebration (funplan) retrospective
+- communication (heccya)
+- competition (funplan) in progress
+- component (heccya)
+- cta (funplan)
+- deploy (win)
 - dev (raceteam)
 - devops (raceteam)
-- [op/sec](https://www.commerce.gov/osy/programs/operations-security-opsec) (raceteam)
-- field (racetrack)
-- pits (field)
-- grid (field)
-- race (racetrack)
-- slow lane (race)
-- groove (race)
+- DL (ADR) decision log
+- driver (cta)
+- environment (heccya)
 - fast lane (race)
-- last lap (race)
-- win (racetrack)
-- brownfield (funstack)
-- bluefield (funstack)
+- field (racetrack)
+- fire team (raceteam)
+- FoF (funplan)
+- FRFR (funplan)
+- fruition (funplan) kick off
+- funfacts (funplan)
+- funplan (racexp)
+- funstack (funplan)
 - greenfield (funstack)
+- grid (field)
+- groove (race)
+- hardware (heccya)
+- heccya (racexp)
+- last lap (race)
+- losing (funplan)
+- op/sec (raceteam)
+- pits (field)
+- product team (raceteam)
+- race (racetrack)
+- raceteam (racexp)
+- racetrack (racexp)
+- racexp
+- research team (raceteam)
+- slow lane (race)
+- win (racetrack)
+- winning (funplan)
+- yielding (heccya)

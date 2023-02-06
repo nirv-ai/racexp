@@ -1,0 +1,57 @@
+- competition: drivers should focus on satisfying the requirements, but also on beating the competition, which may require going beyong simple use case scenarios
+- celebration: retrospectives should be reflections on how we were able to win, or next steps for winning the next race, but either way we're going to celebrate instead of complain
+- funplan: a single question answerable in realtime, `are we winning or losing?`
+  - winning: funstacks are (new + upgrades) / fixes > 3:1, but its really market dependent
+    - perfect competition: having any fixes could spell disaster
+    - competitive: any fix related to the core revenue stream could sink the ship
+    - oligopoly: features provided by all competitors should never have fixes, else users will jump
+    - duopoly: as long as you have less fixes than the other guy, you're practically winning
+    - monopoly: it may not matter how many fixes you have until the competition leapfrogs
+    - monopsony: users should never have fixes in the features they care about
+  - losing: opposite of winning
+    - fix: often bugs/defects will sit in a backlog because they're not/difficult to include in management/financial statistics, however canarys die slow deaths and you may not realize the oxygen levels are in the red
+      - a good analogy is climate change: how many bugs exist in the system yet no one is prioritizing fixes, because the canary is still singing, but sooner or later the canary is going to fkn drop dead
+  - funfacts: the proof
+- [Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum) Ceremonies
+  - sprint planning
+  - daily scrum
+  - sprint review
+  - retrospective
+- sprints in general
+  - there is no sprint, or artificial deadline every X hours, we are in a race to build the best product, and each team goes in a circle: the grid > the race > the win: just like a formula 1 race team
+    - the team should know when its time for retrospective, when its time to stop and plan, and when its time to race
+    - the ideal solution being:
+      - when any one developer has finished a race, only a subset of their team needs to ascertain the quality of the finish and support the driver in question to prepare for their next race
+        - should cycle between drivers in an `on call queue` for everyone to keep a smaller, yet more focused scope of what every other driver is doing
+      - other drivers can keep their `fk u` hat on and continue to focus on the issue at hand
+- RACE:XP [Simulations](https://www.youtube.com/watch?v=suXyQKnhs8Q)
+  - Formula 1 simulators are tools used to develop drivers, improving technique, and improving the car
+- Done: nothing is ever done, we're just moving the goalpost on what we're trying to achieve
+  - instead: use Deployed, as we expect to bluefield everything in the future
+- refactor: everything is an enhancement, even new products are refactors of someone elses idea
+  - instead: use [Improvement](https://learningenglish.voanews.com/a/improve-increase-or-enhance-/4900905.html) and focus on the increased quality that gets us closer to the finish line, and work towards that which moves the needle most
+- [Sprint](https://blogs.infosupport.com/3-reasons-for-using-sprints-and-why-they-may-be-bad/): i'll trade your predictability for adaptability any_day_of_your_sprint
+  - instead:
+    - embrace the complexity, risk and potential for failure.
+    - Focus on change-management and short-feedback loops with immediate corrective actions
+    - trend analysis: ...TODO review trading strategies and apply to racexp
+- [RACING FLAGS](https://en.wikipedia.org/wiki/Racing_flags)
+- the dimensions on which a ticket is evaluated to ascertain quality:
+  - basically anything you want, but all should be:
+    - technical principals/best practices, e.g. DRY, SOLID, KISS, efficiency, effectiveness, etc.
+    - not solvable by automation: keep your biases/opinions to a minimum and the team focused on finishing the race successfully, not perfectly
+- [MEATBALL](https://en.wikipedia.org/wiki/Racing_flags#Black_flag)
+- A mechanical black flag is a black flag with an orange disc in its center which indicates that a vehicle is being summoned to the pits due to serious mechanical problems or loose bodywork that presents a risk to other competitors. At some road racing events, it is used to summon the vehicle to the pits to inform the driver of violation "maximum sound levels.” Also known as the 'Meatball' flag.
+- only `meatballs` are rejected/reworked, everything else is pushed through
+- [YELLOW FLAG](https://en.wikipedia.org/wiki/Racing_flags#Yellow_flag)
+- The solid yellow flag, or caution flag, universally requires drivers to slow down due to a hazard on the track, typically an accident, a stopped car, debris or light rain. However, the **procedures for displaying the yellow flag vary for different racing styles and sanctioning bodies**.
+- _too many_ yellow flags and a ticket could be labeled a meatball
+- _too few_ yellow flags is indicative of over optimizing (dont over optimize, be overly optimistic)
+  - the idea being all tech is techdebt eventually, there is no perfectly groomed/scoped ticket. eventually all work will be redone
+  - this idea should be built into your strategic planning and accepted as a first principle
+- [CHEQUERED FLAG](https://en.wikipedia.org/wiki/Racing_flags#The_chequered_flag)
+- The chequered flag (or checkered flag) is displayed at the start/finish line to indicate that the race is officially finished. At some circuits, the first flag point will display a repeat chequered flag (usually on the opposite side of the circuit). The flag is commonly associated with the winner of a race, as they are the first driver to "take" (in other words, drive past) the chequered flag.
+- Upon seeing the chequered flag and crossing the finish line, drivers are required to slow to a safe speed, and return to their garage, parc fermé, or paddock, depending on the applicable regulations of the series.
+- Useful for keeping track of [all the factors](https://www.nature.com/articles/s41467-021-25477-8) that were in alignment for a particular ticket, developer, PM, etc that joined together and executed fkn flawlessly.
+  - you should ask yourself right now: Do you know the specific levers to pull in order to push your team across the finish line... and if you have the data to back that shit up
+  - and if not, you should atleast be keeping track of the tickets that represent the flawless fatality: apply the chequered flag

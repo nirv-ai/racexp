@@ -1,6 +1,6 @@
 # F.U.N Plan
 
-- fun planning stacks of CTAs
+- Planning stacks of F.U.N.
 
 > ![RACE:XP racetrack](./images/racexp-funplan-funstack-raceteam.png)
 
@@ -88,7 +88,6 @@ nimlangs styleguide: replace `code` with whatever it is you do
 - thus, features apriori...
   - determine the overall composition of your FUNstack...
   - drive the management of races your drivers...
-- ...
 
 ## F.U.N Plan
 
