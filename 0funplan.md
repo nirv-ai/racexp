@@ -1,4 +1,10 @@
-# CTA - Context-Technoloy-Asides
+# F.U.N Plan
+
+- fun planning stacks of CTAs
+
+> ![RACE:XP racetrack](./images/racexp-funplan-funstack-raceteam.png)
+
+## CTA - Context-Technoloy-Asides
 
 - capture use case specifications, requirements & acceptance criteria without hardcoding top-down requirements or having to manage-up
 
@@ -12,7 +18,7 @@ nimlangs styleguide: replace `code` with whatever it is you do
 
 ---
 
-## Observations
+### Observations
 
 - the race team is a smart team, but...
   - we need to be creative and remove inapropriate barriers that restrict our solutions
@@ -20,7 +26,7 @@ nimlangs styleguide: replace `code` with whatever it is you do
   - shift right those 1s and 0s as far as possible
   - spread imagination throughout
 
-## First Principles
+### First Principles
 
 - CTAs should be living documents:
   - a single CTA can go through multiple iterations and races
@@ -29,7 +35,7 @@ nimlangs styleguide: replace `code` with whatever it is you do
 - Participants should be responsive
 - The process should be creative
 
-## Outline
+### Outline
 
 - context: the biz context; put on your CEO & forward-facing CTO hat
   - strive to provide what needs to be achieved, vs what needs to be completed
@@ -40,7 +46,7 @@ nimlangs styleguide: replace `code` with whatever it is you do
   - how do we build something resilient to future (and expected) changes
 - asides: additional abbreviations supporting the biz & tech context
 
-## FoF: Focus on Features
+### FoF: Focus on Features
 
 - All work is described as a feature
 - you could say there is a single issue type, and that type is Feature
@@ -52,27 +58,27 @@ nimlangs styleguide: replace `code` with whatever it is you do
   - **U**: need to upgrade something? increment the release version and deploy an improvement or enhancement
   - **N**: new ideas? nothing increases the bottom line new features and products
 
-### F.U.N Stacks: Features are FUN
+## F.U.N Stacks: Features are FUN
 
 - each CTA should be creative, profitable, and FUN!
 
-#### Fix
+> ![NIRVai F.U.N Stacks](./images/racexp-funstack.png)
+
+### Fix
 
 - brownfield > intolerables: straight to a race
 - e.g. bugs, defects
 
-#### Upgrade
+### Upgrade
 
 - bluefield > enhancements & restrictions: line up in the grid
 - e.g. tests, documentation, redesign, [enhancements improvements](https://learningenglish.voanews.com/a/improve-increase-or-enhance-/4900905.html)
 - we dont use the word `refactor` in these parts of town cowboy
 
-#### New
+### New
 
 - greenfield > rapid prototyping & new product development: require pit boss approval
 - everyone loves something new: can we afford it? can we win if we enter the race?
-
-> ![NIRVai F.U.N Stacks](./images/racexp-cta.png)
 
 ### F.U.N Facts
 
@@ -84,6 +90,6 @@ nimlangs styleguide: replace `code` with whatever it is you do
   - drive the management of races your drivers...
 - ...
 
-### F.U.N Plan
+## F.U.N Plan
 
-> ![NIRVai F.U.N plan](./images/racexp-fun%20plan.png)
+> ![NIRVai F.U.N plan](./images/racexp-funplan.png)

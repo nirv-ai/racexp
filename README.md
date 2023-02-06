@@ -16,13 +16,12 @@
 - **HECC-YA**: **h**ardware **e**nvironment **c**omponent **c**ommunication **y**ielding **a**rchitecture
   - [read more](./0heccya.md#hecc-ya-system-modeling)
 
-## CTA
+## F.U.N. Plan
 
-> ![NIRVai F.U.N plan](./images/racexp-fun%20plan.png)
+> ![NIRVai F.U.N plan](./images/racexp-funplan-funstack-raceteam.png)
 
-- Creative call to actions
-- **CTA**: **C**ontext **T**echnology **A**sides
-  - [read more](./0cta.md)
+- Planning F.U.N. stacks of CTAs
+  - [read more](./0funplan.md)
 
 ## Terminology
 
