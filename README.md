@@ -23,3 +23,27 @@
 - Creative call to actions
 - **CTA**: **C**ontext **T**echnology **A**sides
   - [read more](./0cta.md)
+
+## Terminology
+
+- driver
+- racetrack
+- funstack
+- raceteam
+- biz (raceteam)
+- bizdev (raceteam)
+- dev (raceteam)
+- devops (raceteam)
+- [op/sec](https://www.commerce.gov/osy/programs/operations-security-opsec) (raceteam)
+- field (racetrack)
+- pits (field)
+- grid (field)
+- race (racetrack)
+- slow lane (race)
+- groove (race)
+- fast lane (race)
+- last lap (race)
+- win (racetrack)
+- brownfield (funstack)
+- bluefield (funstack)
+- greenfield (funstack)

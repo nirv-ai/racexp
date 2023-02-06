@@ -6,15 +6,15 @@
 
 ## TLDR
 
-- uses the `race [car|team] metaphor` as the ontology of rapid prototyping/product development
-  - Realistic: Pragmatic for high performance teams
-  - [Agile](https://www.metaltoad.com/blog/most-agile-thing-you-can-do-throw-away-agile): ...
-  - [Concepts](https://en.wikipedia.org/wiki/Extreme_programming#Concept): ...
+- uses the `race team metaphor` as the ontology of rapid prototyping/product development
+  - Realistic: Pragmatic for high performance developers, startups and enterprise teams
+  - [Agile](https://www.metaltoad.com/blog/most-agile-thing-you-can-do-throw-away-agile): the practical parts of agile
+  - [Concepts](https://en.wikipedia.org/wiki/Extreme_programming#Concept): overarching thereotical practices
   - [Extreme Programming](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 
 ## [THE FIELD](https://en.wikipedia.org/wiki/Glossary_of_motorsport_terms)
 
-- The competing cars in an event.
+- The competing races on a track.
   - `the pits` + `the grid`
   - all the tickets that could potentially be worked on
 
