@@ -1,3 +1,12 @@
+- racexp: three pillars of racexp
+  - organizational structure: as defined by investopedia
+    - system that outlines how certain activities are directed in order to achieve the goals of an organization
+  - management methdology: as defined by teamwork
+    - set of principles and practices that guide you in organizing your projects to ensure their optimum performance
+  - collective intelligence: as defined by MIT
+    - how people and computers can be connected so that collectively they act more intelligently than any person, group, or computer has ever done before.
+    - i like wikepedias definition better
+      - shared or group intelligence ( GI) that emerges from the collaboration, collective efforts, and competition of many individuals
 - competition: drivers should focus on satisfying the requirements, but also on beating the competition, which may require going beyong simple use case scenarios
 - celebration: retrospectives should be reflections on how we were able to win, or next steps for winning the next race, but either way we're going to celebrate instead of complain
 - funplan: a single question answerable in realtime, `are we winning or losing?`
