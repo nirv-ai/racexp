@@ -7,7 +7,7 @@
 ## RACExp
 
 - Holistic high performance bizdevops teams
-- **RACEXP**: **R**ealistic **A**gile **C**oncepts for **EX**tream **P**rogramming
+- **RACExp**: **R**ealistic **A**gile **C**oncepts for **EX**tream **P**rogramming
   - [read more](./0racexp.md)
 
 > ![RACExp](./images/racexp-racetrack.png)
@@ -29,13 +29,13 @@
 
 - 5Dubs (heccya)
 - AD (ADR) architectural decision
-- ADR (racexp) [we primarily much follow githubs guidelines, with a twist](https://adr.github.io/)
+- ADR (racexp) we primarily follow [githubs](https://adr.github.io/) best practices
 - AKM (ADR) architectural knowledge management
 - architecture (heccya)
 - ASR (ADR) architecturally significant record
 - biz (raceteam)
 - bizdev (raceteam)
-- bizdevops (raceteam) [(almost) everyone you need to win](https://enterprisersproject.com/article/2019/9/devops-what-is-bizdevops)
+- bizdevops (raceteam) almost [everyone](https://enterprisersproject.com/article/2019/9/devops-what-is-bizdevops) you need to win
 - bluefield (funstack)
 - brainstorm (funplan) planning
 - brownfield (funstack)
@@ -63,7 +63,7 @@
 - grid (field)
 - groove (race)
 - hardware (heccya)
-- heccya (racexp) [we primarily follow the AWS guidelines, with a twist](https://aws.amazon.com/blogs/apn/the-6-pillars-of-the-aws-well-architected-framework/)
+- heccya (racexp) we primarily follow [AWS](https://aws.amazon.com/blogs/apn/the-6-pillars-of-the-aws-well-architected-framework/) and [hashicorps](https://developer.hashicorp.com/well-architected-framework) best practices
 - last lap (race)
 - losing (funplan)
 - op/sec (raceteam) [operations and security](https://www.commerce.gov/osy/programs/operations-security-opsec)
