@@ -1,4 +1,4 @@
-# BizDevOps @ NIRV
+# BizDevOps+Sec @ NIRV
 
 > understanding all of our planning... triangulate the ideal path towards a future state of being. @NIRV
 
@@ -35,7 +35,8 @@
 - ASR (ADR) architecturally significant record
 - biz (raceteam)
 - bizdev (raceteam)
-- bizdevops (raceteam) almost [everyone](https://enterprisersproject.com/article/2019/9/devops-what-is-bizdevops) you need to win
+- bizdevops+sec (raceteam) almost [everyone](https://enterprisersproject.com/article/2019/9/devops-what-is-bizdevops) you need to win
+  - we include secops in this definition
 - bluefield (funstack)
 - brainstorm (funplan) planning
 - brownfield (funstack)
