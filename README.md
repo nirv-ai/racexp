@@ -1,10 +1,10 @@
 # BizDevOps+Sec @ NIRV
 
+- [use the project template](https://github.com/orgs/nirv-ai/projects/8/views/2)
+
 > understanding all of our planning... triangulate the ideal path towards a future state of being. @NIRV
 
 > ![RACExp](./images/racexp-racexp.png)
-
-- [use the project template](https://github.com/orgs/nirv-ai/projects/8/views/2)
 
 ## RACExp
 
