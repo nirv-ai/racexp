@@ -4,6 +4,8 @@
 
 > ![RACExp](./images/racexp-racexp.png)
 
+- [use the project template](https://github.com/orgs/nirv-ai/projects/8/views/2)
+
 ## RACExp
 
 - Holistic high performance bizdevops teams
